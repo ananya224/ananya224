@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/ananya224">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya224&theme=buefy&show_icons=true" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananya224&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya224&theme=buefy&layout=compact" />
 </a>
 
