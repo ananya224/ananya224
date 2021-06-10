@@ -1,5 +1,6 @@
 
 <h2> Hey there! I'm Ananya.</h2>
+<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
