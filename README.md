@@ -1,6 +1,6 @@
 
 <h2> Hey there! I'm Ananya.</h2>
-<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -9,6 +9,9 @@
 - 🧐 &nbsp; Exploring new technologies and creating strategic meaningful experiences for people.
 - 💪 &nbsp; Learning more about Front End frameworks and technologies.
 - 🎵 &nbsp;  If not designing or coding, can be found playing a Ukelele.
+
+
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
