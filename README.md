@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👩‍💻 &nbsp; A Self taught UI/UX Designer and a passionate Front end Developer.
-- 🎓 &nbsp; B.Tech 3rd year student studying Information Technology.
+- 🎓 &nbsp; B.Tech final year student studying Information Technology.
 - 🧐 &nbsp; Exploring new technologies and creating strategic meaningful experiences for people.
 - 💪 &nbsp; Learning more about Front End frameworks and technologies.
 - 🎵 &nbsp;  If not designing or coding, can be found playing a Ukelele.
